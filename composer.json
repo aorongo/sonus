@@ -15,6 +15,10 @@
         {
             "name": "Closca Costel",
             "email": "closca.costel@gmail.com"
+        },
+		{
+            "name": "Allan Omollo",
+            "email": "allan194@juno.com"
         }
     ],
     "minimum-stability": "dev",
